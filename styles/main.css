@@ -11,7 +11,7 @@ h1 {
 body {
   background: #eee; }
 
-.title:hover {
+span:hover {
   font-weight: bold;
   cursor: pointer; }
 
